@@ -60,6 +60,9 @@
 </div>
 <br clear="both" />
 
+![Thusal Dilhara GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThusalDilhara&show_icons=true&theme=tokyonight)
+
+
 ### 📫 Get In Touch
 
 - Email: thusaldilhara20@gmail.com  
