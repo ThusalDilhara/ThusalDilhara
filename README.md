@@ -35,7 +35,8 @@
   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="left" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="left" alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" />
+
   <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
   
   <!-- Backend -->
@@ -54,7 +55,8 @@
   <img align="left" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
   <img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
   <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" />
+
 </div>
 <br clear="both" />
 
@@ -63,7 +65,7 @@
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Thusal Dilhara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThusalDilhara&show_icons=true&theme=radical)
 
 ---
 
