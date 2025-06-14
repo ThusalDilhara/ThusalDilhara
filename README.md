@@ -60,15 +60,6 @@
 </div>
 <br clear="both" />
 
-
----
-
-### 📈 GitHub Stats
-
-![Thusal Dilhara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThusalDilhara&show_icons=true&theme=radical)
-
----
-
 ### 📫 Get In Touch
 
 - Email: thusaldilhara20@gmail.com  
